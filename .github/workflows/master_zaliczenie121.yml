@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'zaliczenie121'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6537043027374884b7cbf57fba5fc174 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_be5f6658c76249a9a1c0a2dd241eb617 }}
         package: .
