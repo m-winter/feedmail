@@ -22,6 +22,9 @@ app-name: '##appname##'
 5) Tworzymy bazę danych CosmoDB oraz uzupełniamy connection string z punktu 4
 ![1](https://github.com/m-winter/feedmail/blob/master/12.png)
 
+6) Po wdrożeniu i aktualizacji aplikacja wysyła maile
+
+![1](https://github.com/m-winter/feedmail/blob/master/13.png)
 
 
 #############################################################################################
