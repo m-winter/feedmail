@@ -25,7 +25,7 @@ app-name: '##appname##'
 
 
 #############################################################################################
-TESTY
+
 
 Landing Page
 ![1](https://github.com/m-winter/feedmail/blob/master/unknown.png)
