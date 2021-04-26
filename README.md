@@ -9,6 +9,7 @@ app-name: '##appname##'
 ![1](https://github.com/m-winter/feedmail/blob/master/9.png)
         
 2) Dodajemy nowy secret o nazwie AZURE_WEBAPP_PUBLISH_PROFILE, jako wartość dodajemy pobrane informacje z Azure publish Profile
+![1](https://github.com/m-winter/feedmail/blob/master/8.png)
 
 3) Deployujemy aplikacje przez Github Actions 
 ![1](https://github.com/m-winter/feedmail/blob/master/10.png)
