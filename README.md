@@ -19,7 +19,7 @@ app-name: '##appname##'
  oraz NODE_ENV z wartością production
  ![1](https://github.com/m-winter/feedmail/blob/master/11.png)
  
-5) 
+5) TESTY
 
 Landing Page
 ![1](https://github.com/m-winter/feedmail/blob/master/unknown.png)
