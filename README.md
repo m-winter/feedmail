@@ -19,7 +19,8 @@ app-name: '##appname##'
  oraz NODE_ENV z wartością production
  ![1](https://github.com/m-winter/feedmail/blob/master/11.png)
  
-5) TESTY
+5) Tworzymy bazę danych CosmoDB oraz uzupełniamy connection string z punktu 4
+![1](https://github.com/m-winter/feedmail/blob/master/12.png)
 
 Landing Page
 ![1](https://github.com/m-winter/feedmail/blob/master/unknown.png)
